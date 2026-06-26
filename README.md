@@ -7,8 +7,8 @@ connection, etc.
 
 Just use `pip install fastapi-globals` to install the library.
 
-**Note:** `fastapi-globals` is compatible with `fastapi` versions `0.100.0` and later on
-Python `3.10`, `3.11`, `3.12` and `3.13`. This is also ensured running all tests on all those versions
+**Note:** `fastapi-globals` is compatible with `fastapi` versions `0.100.0` and later on Python `3.10`,
+`3.11`, `3.12`, `3.13` and `3.14`. This is also ensured running all tests on all those versions
 using `tox`.
 
 ## Setup
