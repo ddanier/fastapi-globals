@@ -1,6 +1,6 @@
 [project]
 name = "fastapi-globals"
-version = "0.3.0"
+version = "0.3.1"
 description = "Use request global variables in FastAPI"
 readme = "README.md"
 authors = [{ name = "David Danier", email = "david.danier@gmail.com" }, { name = "TEAM23 GmbH", email = "info@team23.de" }]
