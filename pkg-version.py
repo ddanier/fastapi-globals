@@ -21,4 +21,4 @@ if __name__ == "__main__":
             pyproject_toml = tomlkit.parse(f.read())
 
         version = pyproject_toml["project"]["version"]
-        print(version)
+        print(version)  # noqa: T201
