@@ -56,3 +56,13 @@ Note that default values should only be set at startup time, never
 inside dependencies or similar. Otherwise you may run into the issue that
 the value was already used any thus have a value of `None` set already, which
 would result in the default value not being used.
+
+## Contributing
+
+If you want to contribute to this project, feel free to just fork the project,
+create a dev branch in your fork and then create a pull request (PR). If you
+are unsure about whether your changes really suits the project please create an
+issue first, to talk about this.
+
+Please do not contribute AI generated code unless we explicitly talked about
+this and agreed upon doing so first. In general I do not want AI contributions.
